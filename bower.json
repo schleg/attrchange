@@ -1,0 +1,30 @@
+{
+  "name": "attrchange",
+  "main": "attrchange.js",
+  "version": "1.0.1",
+  "homepage": "http://meetselva.github.com/attrchange",
+  "authors": [
+    "Selvakumar Arumugam"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "attrchange is a simple jQuery crossbrowser plugin to bind a listener function to any HTML element on attribute change.",
+  "keywords": [
+    "attribute",
+    "attribute",
+    "change",
+    "DOMAttrModified",
+    "MutationObserver",
+    "onchange",
+    "onpropertychange"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
